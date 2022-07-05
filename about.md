@@ -1,15 +1,12 @@
 ---
 layout: page
-title: About
+title: معلومات عني
 permalink: /about/
 ---
 
-Some information about you!
+مهندس أنظمة مدمجة (embedded systems) مهتم بالبرمجيات عموما و ذات المستوى المنخفض خصوصا(Low Level Sofware).
 
-### More Information
+### اتصل بي
+[linkedin](https://www.linkedin.com/in/mohamed-aouadhi-a375b462/)
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[med.aouadhi@gmail.com](mailto:med.aouadhi@gmail.com)
