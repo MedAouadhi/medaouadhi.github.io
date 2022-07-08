@@ -47,3 +47,7 @@ title: Raspberry pi 3B+ سلسلة تطوير نظام تشغيل من الصف�
 - [U-Boot](https://www.denx.de/wiki/U-Boot)
 - [GRUB](https://www.gnu.org/software/grub/)
 - [UEFI Bootloaders](https://wiki.osdev.org/UEFI) ...
+
+###  سلسلة التشغيل ل Raspberrypi 3B+
+
+عند التدقيق في وثيقة البيانات للمعالج
